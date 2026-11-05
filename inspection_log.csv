@@ -1,0 +1,7 @@
+﻿time,object,conf,length_px,result,reason
+2026-10-28 14:01:24,person,0.92,268,FAIL,unregistered
+2026-10-28 14:01:27,person,0.93,266,FAIL,unregistered
+2026-10-28 14:01:33,cell phone,0.86,196,PASS,ok
+2026-11-05 18:28:00,cell phone,0.60,272,PASS,ok
+2026-11-05 18:28:45,mouse,0.91,154,PASS,ok
+2026-11-05 18:29:00,mouse,0.90,156,PASS,ok
